@@ -1,0 +1,14 @@
+<?php 
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+namespace Evon\Oauth;
+ 
+class Nacho {
+ 
+  public function hasCheese($bool = true)
+  {
+    return $bool;
+  }
+ 
+}
